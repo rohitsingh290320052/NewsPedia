@@ -68,7 +68,7 @@ class GeneralFragment : Fragment() {
                     .load(newsDataForTopHeadlines[position].image)
                     .fit()
                     .centerCrop()
-                    .error(R.drawable.samplenews)
+                    .error(R.drawable.news)
                     .into(imageView)
 
 

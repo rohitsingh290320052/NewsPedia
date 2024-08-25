@@ -28,7 +28,7 @@
                 android:layout_height="match_parent"
                 android:cropToPadding="true"
                 android:scaleType="centerCrop"
-                android:src="@drawable/samplenews" />
+                android:src="@drawable/news" />
 
 
         </com.google.android.material.card.MaterialCardView>
